@@ -1,1 +1,38 @@
 /* your styles will go here!! */
+body{
+    background-color: #F4DBF3;
+}
+
+nav a{ 
+    color: #f75f1e;
+    text-decoration: none;
+    font-size: 20px;
+    background: lightpink;
+    margin: 18px;
+    padding: 2px 30px;
+    border: 2px black solid;
+}
+
+nav a:hover{
+    background:white;
+}
+
+img {
+    max-width: 100%;
+}
+h1{
+    color: #FF7033;
+    font-size: 88.06px;
+    font-weight: 400;
+    word-wrap: break-word
+}
+
+/* home*/
+
+.Hi{
+    color: #FEAC8A;
+    font-size: 71.42px;
+    font-weight: 400;
+    line-height: 123.38px;
+    word-wrap: break-word
+}
