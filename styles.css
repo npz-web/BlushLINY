@@ -1,20 +1,23 @@
 /* your styles will go here!! */
 body{
+    margin: 0;
     background-color: #F4DBF3;
+    padding: 15px 15px;
+}
+
+nav{
+    background: #ffffff;
 }
 
 nav a{ 
     color: #f75f1e;
     text-decoration: none;
     font-size: 20px;
-    background: lightpink;
-    margin: 18px;
     padding: 2px 30px;
-    border: 2px black solid;
 }
 
 nav a:hover{
-    background:white;
+    background:lightblue;
 }
 
 img {
