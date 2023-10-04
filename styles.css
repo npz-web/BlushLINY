@@ -3,6 +3,7 @@ body{
     margin: 0;
     background-color: #F4DBF3;
     padding: 15px 15px;
+    font-family: 'Lalezar', cursive;
 }
 
 /* navigation styles */
@@ -15,7 +16,6 @@ header{
 }
 
 nav{
-    background: #ffffff;
 }
 
 nav a{ 
@@ -35,9 +35,10 @@ nav a:hover{
 }
 h1{
     color: #FF7033;
-    font-size: 88.06px;
-    font-weight: 400;
-    word-wrap: break-word
+     font-size: 88.06px;
+     font-family: 'Lalezar', cursive;
+     font-weight: 400;
+     word-wrap: break-word
 }
 
 /* home*/
@@ -48,6 +49,7 @@ h1{
     font-weight: 400;
     line-height: 123.38px;
     word-wrap: break-word
+    font-family: 'La Belle Aurore', cursive;
 }
 
 .home main{
